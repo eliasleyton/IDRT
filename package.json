@@ -1,0 +1,11 @@
+{
+  "name": "i-dont-remember-that",
+  "version": "1.0.0",
+  "description": "I remember the last tweets only",
+  "author": "Elias Leyton",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^5.0.0",
+    "twitter": "^1.7.0"
+  }
+}
