@@ -5,7 +5,6 @@
   "author": "Elias Leyton",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^5.0.0",
     "twitter": "^1.7.0"
   }
 }

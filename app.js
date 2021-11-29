@@ -1,5 +1,3 @@
-require('dotenv').config()
-
 var client = require('twitter')({
     consumer_key: process.env.CONSUMER_KEY,
     consumer_secret: process.env.CONSUMER_SECRET,
